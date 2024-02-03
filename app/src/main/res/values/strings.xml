@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WISE APP</string>
+    <string name="intro_title">Let\'s Drink\nQuality Cocktails</string>
+    <string name="near_restaurant">Near Restaurant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_">Category :</string>
+    <string name="descriptions">Descriptions :</string>
+    <string name="instructions">Instructions :</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="id_value">ID: %1$s</string>
+    <string name="last_modified_date">Last Modified Date:</string>
+</resources>
